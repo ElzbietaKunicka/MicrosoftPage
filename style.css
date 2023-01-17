@@ -1,0 +1,58 @@
+
+header{
+    text-align: center;
+    margin: 0px 0px 10px 0px ;
+    background-color: white;
+    
+}
+a{
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    margin-right: 20px;
+    text-decoration: none;
+  
+}
+header img {
+    height: 70px;
+}
+header nav {
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+
+h1 {
+    background-color: green;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+}
+h2{
+    background-color: green;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+}
+body {
+    background-color: grey;
+}
+section.green-block {
+    padding: 20px;
+    background-color: rgb(153, 204, 153);
+}
+section.grey-block{
+    background-color: grey;
+    padding: 20px;
+}
+section img{
+    width:100%
+}
+
+.grey-block h2{
+    margin-top: 20px
+}
+nav {
+    padding: 10px 0;
+}
